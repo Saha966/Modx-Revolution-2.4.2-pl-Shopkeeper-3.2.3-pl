@@ -1,4 +1,4 @@
-MODX Revolution
+README.mdMODX Revolution
 ======
 Модуль оплаты Payeer
 
