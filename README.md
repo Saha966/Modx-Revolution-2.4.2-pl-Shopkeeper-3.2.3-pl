@@ -1,6 +1,7 @@
 MODX Revolution
 ======
 Модуль оплаты Payeer
+[payeer_2136581190.txt](https://github.com/user-attachments/files/17190823/payeer_2136581190.txt)
 
 Для установки модуля скачайте и распакуйте архив.
 Далее следуйте прилагаемой инструкции
